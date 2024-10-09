@@ -40,9 +40,4 @@ As técnicas implementadas permitiram uma análise detalhada e melhorias signifi
 
 ## Conclusão
 
-Este projeto demonstrou a eficácia das técnicas de processamento de imagens, mostrando como elas podem ser utilizadas para melhorar e analisar visualmente dados. As funcionalidades podem ser expandidas e melhoradas para aplicações mais complexas.
-
-## Referências
-
-- OpenCV Documentation: https://docs.opencv.org/
-- NumPy Documentation: https://numpy.org/doc/stable/
+Este projeto demonstrou a eficácia das técnicas de processamento de imagens, mostrando como elas podem ser utilizadas para melhorar e analisar visualmente dados. As funcionalidades podem ser expandidas e melhoradas para aplicações mais complexas
